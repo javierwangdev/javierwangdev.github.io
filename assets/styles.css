@@ -7,7 +7,7 @@ body{ background-color:#fff; font-size:16px;}
 .affix{ top:1rem; }
 
 
-.bd-pageheader{ padding:2rem .9375rem; background:url(../images/rule.svg)/*tpa=http://nav.templatesy.com/images/rule.svg*/ left top no-repeat; color:#aaa; position:relative; margin-bottom: 3rem;}
+.bd-pageheader{ padding:2rem .9375rem; color:#aaa; position:relative; margin-bottom: 3rem;}
 .bd-pageheader:before{ content: ""; position: absolute; left: 0; top: 0; right: 0; bottom: 0; background: url(../images/banner-1.jpg)/*tpa=http://nav.templatesy.com/images/banner-1.jpg*/; background-size:cover; z-index: -1; }
 .bd-pageheader .container{ position:relative; z-index:2; }
 .bd-pageheader h1{ color:#fff; font-size:2rem;}
